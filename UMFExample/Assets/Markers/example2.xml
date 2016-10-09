@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<markers>
+<marker>
+<gid>186</gid>
+<width>16</width>
+<height>12</height>
+<kernel>3</kernel>
+<data>210101201212120110221021200210122112011010212221121021210201200220021201210211200201021220110121212021001202121020102021222020201200102201212112022101211210120012021002011021122121012020221020</data>
+<module_type>0</module_type>
+<type>4</type>
+<torus>0</torus>
+<colorspace>0</colorspace>
+<range>3</range>
+<colors></colors>
+<img_id>0</img_id>
+<img_alg></img_alg>
+<img_server>pcszentandrasi.fit.vutbr.cz</img_server>
+<img_path></img_path>
+<runtime>359.011432</runtime>
+<kernel_type>7</kernel_type>
+<threshold_equal>0</threshold_equal>
+<cost_neighbors>8.0,8.0:0;10.0,0.0:128</cost_neighbors>
+<cost_similarity>1</cost_similarity>
+<img_conv>1</img_conv>
+</marker>
+</markers>
