@@ -25,6 +25,9 @@ Usage
 
 Place the plugins created from UMF detector into Assets/Plugins/x86 or Assets/Plugins/Android for android.
 
+For android use the UMF detector project to generate .aar packages from android/UMFDetector/umf-android-lib/build/outputs/aar/.
+To generate them use assembleRelease and assembleDebug gradle tasks.
+
 On windows also put the UMFDetector.dll next to the generated exe. Unity sometimes has trouble finding it.
 Also make sure, that all libraries required by UMF detector are in the path.
 
